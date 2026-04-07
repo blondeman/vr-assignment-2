@@ -1,0 +1,14 @@
+
+Current Trial number (e.g, trial 5, etc.) 
+
+Current interaction method should be used (e.g., thumbs-up gesture), defined by above input file/predefined condition.  
+
+Trial Result after each selection (e.g., “Hit in green or Miss in red colors”) 
+
+After the experiment is complete, a final message showing the CSV File saved in the xxx path.  
+
+
+Gesture, Target Distance, target size, Repetitions
+
+Gesture: Pinch, Target distance 10cm, Repetition : 2
+Gesture: Point, Target distance 20cm, Repetition : 2 
